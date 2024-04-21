@@ -14,8 +14,7 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 꿈틀꿈틀
-       쿠버네티스 # the main title
+title: 꿈틀꿈틀>쿠버네티스 # the main title
 
 tagline: wiggle wiggle kubernetes # it will display as the sub-title
 
@@ -24,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "http://imshhh.github.io"
+url: "https://imshhh.github.io"
 
 github:
   username: imshhh # change to your github username
