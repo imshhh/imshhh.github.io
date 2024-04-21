@@ -15,7 +15,7 @@ timezone: Asia/Shanghai
 # ↓ --------------------------
 
 title: 꿈틀꿈틀
-쿠버네티스 # the main title
+       쿠버네티스 # the main title
 
 tagline: wiggle wiggle kubernetes # it will display as the sub-title
 
